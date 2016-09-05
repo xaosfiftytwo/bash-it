@@ -1,4 +1,7 @@
+.atom-build.json
 */enabled/*
 .DS_Store
 *.swp
 .*.un~
+bats
+.idea
