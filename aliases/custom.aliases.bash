@@ -7,6 +7,7 @@ alias afs='apt-file search'
 alias upgr='sudo apt-get update && sudo apt-get -V upgrade'
 alias dpl='dpkg -l'
 alias dpL='dpkg -L'
-alias wd="cd ~/git/bunsenlabs/bunsen-utilities"
+# alias wd="cd ~/git/bunsenlabs/bunsen-utilities"
+alias rpd='rapid-photo-downloader'
 
 export EDITOR='emacsclient'
